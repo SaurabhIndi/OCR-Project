@@ -172,3 +172,5 @@ Text from capchas (1).jpeg: N6R6VR
 3. [PaddlePaddle](https://www.paddlepaddle.org.cn/) as a backend for PaddleOCR.
 
 --- 
+## Loom video overview:
+1. [Video Overview]([https://opencv.org/](https://www.loom.com/share/f8d557ebd0724c94a7a37c708d4979ce?sid=a1420970-d253-4e9f-b349-a1c58377e8c7))
